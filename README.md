@@ -4,7 +4,7 @@ Set of scripts to disable/enable USB HID devices on Windows
 
 Name was inspired by YubiSwitch utility https://www.yubico.com/2013/10/yubiswitch/
 
-# Backgroung
+# Background
 I needed to disable/enable YubiKey on Windows to make it stop acidentally spaming and because Windows doesn't provide an easy way to do so neither I found any way to do it on the internet except to install some wrong driver for the device I had to take a look and make some reseach on this.
 
 # Related information
