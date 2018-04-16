@@ -19,3 +19,6 @@ https://docs.microsoft.com/en-us/powershell/module/pnpdevice/disable-pnpdevice?v
 
 * In cmd scripts configure DEVCON_PATH your HWID and INSTANCE_ID ( can be found in Device Manager -> Right-click on device -> Properties -> [Details] tab -> Device Instance Path
 * Run scripts as Administrator
+
+# IMORTANT
+# Instance ID will change if you plug it in different USB port!
