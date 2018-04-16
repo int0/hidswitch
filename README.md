@@ -8,8 +8,8 @@ Name was inspired by YubiSwitch utility https://www.yubico.com/2013/10/yubiswitc
 I needed to disable/enable YubiKey on Windows to make it stop acidentally spaming and because Windows doesn't provide an easy way to do so neither I found any way to do it on the internet except to install some wrong driver for the device I had to take a look and make some reseach on this.
 
 # Related information
-https://superuser.com/questions/44572/how-to-disable-a-keyboard
-https://docs.microsoft.com/en-us/powershell/module/pnpdevice/disable-pnpdevice?view=win10-ps
+* https://superuser.com/questions/44572/how-to-disable-a-keyboard
+* https://docs.microsoft.com/en-us/powershell/module/pnpdevice/disable-pnpdevice?view=win10-ps
 
 # Pre-requisites
 
